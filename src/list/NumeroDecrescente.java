@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class NumeroDecrescente {
 
 	public static void main(String[] args) {
-		// Crie uma classe java NumeroDecrescente que contenha um método que receba um número inteiro e imprima, em ordem decrescente, o valor do número até 0.
+		/*Crie uma classe java NumeroDecrescente que contenha um método que
+		receba um número inteiro e imprima, em ordem decrescente, o valor do
+		número até 0.*/
 		
 		Scanner reader = new Scanner(System.in);
 		

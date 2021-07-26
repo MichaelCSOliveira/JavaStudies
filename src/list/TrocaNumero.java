@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class TrocaNumero {
 
 	public static void main(String[] args) {
-		/*Crie uma classe java TrocaNumero que contenha um método que receba dois
-		números NumA e NumB, nessa ordem, e imprima em ordem inversa, isto é, se os
-		dados lidos forem NumA = 5 e NumB = 9, por exemplo, devem ser impressos na
-		ordem NumA = 9 e NumB = 5.*/
+		/*Crie uma classe java TrocaNumero que contenha um método que receba
+		dois números NumA e NumB, nessa ordem, e imprima em ordem inversa, isto
+		é, se os dados lidos forem NumA = 5 e NumB = 9, por exemplo, devem ser
+		impressos na ordem NumA = 9 e NumB = 5.*/
 		
 		Scanner reader = new Scanner(System.in);
 		

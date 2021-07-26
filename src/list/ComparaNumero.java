@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class ComparaNumero {
 
 	public static void main(String[] args) {
-		//Crie uma classe java ComparaNumero que contenha um método que receba dois números e indique se são iguais ou se são diferentes. Mostre o maior e o menor (nesta sequência).
+		/*Crie uma classe java ComparaNumero que contenha um método que receba
+		dois números e indique se são iguais ou se são diferentes. Mostre o
+		maior e o menor (nesta sequência).*/
 		
 		Scanner reader = new Scanner(System.in);
 		
